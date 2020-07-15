@@ -27,6 +27,7 @@ Route materialRoute(widget) {
     settings: new RouteSettings(
       name: widget.toStringShort(),
     ),
+    fullscreenDialog:true
   );
 }
 
