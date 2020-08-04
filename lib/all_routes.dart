@@ -7,15 +7,15 @@
  * See LICENSE for distribution and usage details.
  */
 
+export 'package:nav_router/advanced/advance_slide.dart';
+export 'package:nav_router/routers/fade.dart';
+export 'package:nav_router/routers/rotation.dart';
+export 'package:nav_router/routers/scale.dart';
+export 'package:nav_router/routers/scale_rotate.dart';
+export 'package:nav_router/routers/size.dart';
+export 'package:nav_router/routers/slide.dart';
 export 'package:nav_router/src/router.dart';
 export 'package:nav_router/src/router_advanced.dart';
-export 'package:nav_router/routers/scale.dart';
-export 'package:nav_router/routers/slide.dart';
-export 'package:nav_router/routers/rotation.dart';
-export 'package:nav_router/routers/size.dart';
-export 'package:nav_router/routers/fade.dart';
-export 'package:nav_router/advanced/advance_slide.dart';
-export 'package:nav_router/routers/scale_rotate.dart';
 
 
 /// Here is the way to export all route gradients

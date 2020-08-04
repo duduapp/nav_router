@@ -1,8 +1,8 @@
 import 'dart:ui';
 
-import 'package:nav_router/nav_router.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:nav_router/nav_router.dart';
 import 'package:nav_router_example/pages/new_pahge.dart';
 
 class MyHomePage extends StatefulWidget {

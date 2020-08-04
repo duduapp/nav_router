@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 import 'package:nav_router/nav_router.dart';
 import 'package:nav_router_example/pages/home_page.dart';
 import 'package:nav_router_example/widget/show_toast.dart';
