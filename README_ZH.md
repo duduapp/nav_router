@@ -1,5 +1,11 @@
 Language: [English](README.md) | [中文简体](README_ZH.md)
 
+[![GitHub stars](https://img.shields.io/github/stars/fluttercandies/nav_router)](https://github.com/fluttercandies/nav_router/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fluttercandies/nav_router)](https://github.com/fluttercandies/nav_router/network)
+[![GitHub issues](https://img.shields.io/github/issues/fluttercandies/nav_router)](https://github.com/fluttercandies/nav_router/issues) 
+
+> 如果产生其他依赖无法编译的问题，可以尝试将`pubspec.yaml`中的`dependencies`中的所有依赖的"^"去掉，重新编译尝试。
+
 # nav_router
 
 flutter最简单/轻量/便捷的路由管理方案，支持各种路由动画，跳转/传参起来非常方便，跳转新页面只需：routePush(NewPage());
@@ -119,10 +125,20 @@ Flutter教程网：www.flutterj.com
 Flutter交流QQ群：[874592746](https://jq.qq.com/?_wv=1027&k=5coTYqE)
 
 # 公众号
-<img src="http://www.flutterj.com/public.jpg" height="200" width="200" style="zoom:30%;" />
+<img src="git/public.jpg" height="200" width="200" style="zoom:30%;" />
 
 关注公众号“`Flutter前线`”，各种Flutter项目实战经验技巧，干活知识，Flutter面试题答案，等你来领取。
 
 # 贡献者
 
-<img src="http://www.flutterj.com/circle-cropped.png" height="150" width="150" style="zoom:30%;" />
+<img src="git/circle-cropped.png" height="150" width="150" style="zoom:30%;" />
+
+### LICENSE
+```
+fluttercandies/nav_router is licensed under the
+Apache License 2.0
+
+A permissive license whose main conditions require preservation of copyright and license notices. 
+Contributors provide an express grant of patent rights. 
+Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+```

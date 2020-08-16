@@ -1,5 +1,9 @@
 Language: [English](README.md) | [中文简体](README_ZH.md)
 
+[![GitHub stars](https://img.shields.io/github/stars/fluttercandies/nav_router)](https://github.com/fluttercandies/nav_router/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fluttercandies/nav_router)](https://github.com/fluttercandies/nav_router/network)
+[![GitHub issues](https://img.shields.io/github/issues/fluttercandies/nav_router)](https://github.com/fluttercandies/nav_router/issues) 
+
 # nav_router
 
 nav_router is the simplest / lightweight / convenient routing management solution for flutter. It supports various routing animations, and it is very convenient to jump / pass parameters. To jump to a new page, just routePush (NewPage ());
@@ -114,10 +118,20 @@ routePush(NewPage(navData: (v) {
 
 <img src="git/left_group.png" height="200" width="200" style="zoom:30%;" />
 
-[Above can't show my point](http://www.flutterj.com/left_group.png)
+[Above can't show my point](git/left_group.png)
 
 FlutterJ：www.flutterj.com
 
 # Contributor
 
-<img src="http://www.flutterj.com/circle-cropped.png" height="150" width="150" style="zoom:30%;" />
+<img src="git/circle-cropped.png" height="150" width="150" style="zoom:30%;" />
+
+### LICENSE
+```
+fluttercandies/nav_router is licensed under the
+Apache License 2.0
+
+A permissive license whose main conditions require preservation of copyright and license notices. 
+Contributors provide an express grant of patent rights. 
+Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+```

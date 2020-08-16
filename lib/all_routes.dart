@@ -17,6 +17,5 @@ export 'package:nav_router/routers/slide.dart';
 export 'package:nav_router/src/router.dart';
 export 'package:nav_router/src/router_advanced.dart';
 
-
 /// Here is the way to export all route gradients
 /// You can directly import this single file and over-animate with all the routes inside.
